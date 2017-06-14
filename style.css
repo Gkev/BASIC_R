@@ -1,0 +1,37 @@
+#wrapper{
+	background-color: #1C345E;
+	display: inline-block;
+	margin: 0;
+}
+.sidebar {
+	background-color: #2A7D8C;
+	box-sizing: 100px;
+	padding: 10px;
+    border-style: round;
+}
+
+.main {
+	background-color: #0E1822;
+	height: 200px;
+    width: 500px;
+    margin-right: 220px;
+
+
+
+
+}
+
+#java {
+	color: #A9BFD7;
+}
+
+p {
+	color: #A9BFD7;
+}
+
+.pl{
+	color: #A9BFD7;
+}
+
+
+
